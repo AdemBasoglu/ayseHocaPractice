@@ -7,5 +7,7 @@ public class D01 {
         System.out.println("deneme");
 
         System.out.println("deneme branchinde degisiklik yaptim");
+
+        System.out.println("deneme merge degisiklik birlestir");
     }
 }
