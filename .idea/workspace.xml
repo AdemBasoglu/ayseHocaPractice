@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bcb6dd8-7ad1-447c-95d9-530ea5d25ca1" name="Changes" comment="" />
+    <list default="true" id="2bcb6dd8-7ad1-447c-95d9-530ea5d25ca1" name="Changes" comment="github3 ile calisiyoruz">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667413513515</updated>
     </task>
+    <task id="LOCAL-00001" summary="github3 ile calisiyoruz">
+      <created>1667413935941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667413935941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="github3 ile calisiyoruz" />
+    <option name="LAST_COMMIT_MESSAGE" value="github3 ile calisiyoruz" />
   </component>
 </project>
